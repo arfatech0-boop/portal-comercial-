@@ -1,0 +1,6 @@
+{
+  "name": "Portal Comercial y Recursos Arfa | Hub de Ventas",
+  "description": "Portal unificado de gestión de ventas, métricas, directorio de clientes, control de mantenimiento, ranking de vendedores y asistente inteligente Arfi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
